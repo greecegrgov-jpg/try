@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  -webkit-print-color-adjust: exact; /* Safari and Chrome */
+  color-adjust: exact;
+  float: left; /* Float the section to the left to ensure it takes up only 1/4 of the page */
+  /* Standard syntax */
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url("../js/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: LibreBaskerville;
+  src: url("../js/LibreBaskerville-Bold.ttf");
+}
+
+@font-face {
+  font-family: Fair;
+  src: url("../js/Fair\ Prosper.ttf");
+}
+
+@media print {
+  body {
+    width: 29.7cm; /* Set A4 width */
+    height: 21cm; /* Set A4 height */
+  }
+
+  .print-section {
+    width: 21cm; /* One-quarter of A4 width */
+    height: 29.7cm; /* Full A4 height */
+  }
+    .pagebreak {
+        page-break-before: always;
+    }
+
+}
+
+.print-section {
+  width: 25%; /* Set the width to occupy one-quarter of the printed page */
+  height: 100vh; /* Ensure the height fills the entire printed area */
+  float: left; /* Float the section to the left */
+  box-sizing: border-box; /* Include border and padding in the width calculation */
+  padding: 10px; /* Add padding as needed */
+  border: 1px solid black;
+}

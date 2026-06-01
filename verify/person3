@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://apostille.mofa.gov.pk/verify-attestation -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+    <title>Apostille verification</title>
+    <meta property="og:image" content="">
+    <meta property="og:title" content="Apostille verification">
+    <meta property="og:description" content="Ministry of foreign affairs ">
+
+    <!-- Favicon -->
+    <link href="https://apostille.mofa.gov.pk/web/img/govLogo.png" rel="icon">
+
+    <!-- Google Web Fonts -->
+
+    <link href="./Apostille verification_files/fonts-googleapis.css" rel="stylesheet">
+    <link href="./Apostille verification_files/fonts-googleapis-plus.css" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="./Apostille verification_files/all.min.css" rel="stylesheet">
+    <link href="./Apostille verification_files/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="./Apostille verification_files/all(1).min.css" rel="stylesheet">
+    <link href="./Apostille verification_files/owl.carousel.min.css" rel="stylesheet">
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Template Stylesheet -->
+    <link href="https://apostille.mofa.gov.pk/web/css/style.css" rel="stylesheet">
+        <link href="https://apostille.mofa.gov.pk/web/css/style.css" rel="stylesheet">
+    <style>
+        @page  {
+            size: A4;
+        }
+
+        @media  print {
+            body {
+                margin: 0;
+                padding: 0;
+            }
+
+            .print-content {
+                width: 50%; /* Quarter of A4 */
+                height: 50%; /* Quarter of A4 */
+                float: left;
+                page-break-after: always;
+            }
+        }
+
+        body {
+            float: none;
+        }
+
+        .qr-code-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .qr-code-container img {
+            position: absolute;
+            bottom: 7px;
+            right: 0;
+        }
+
+        .card .certicate-Image img {
+            height: 500px;
+            object-fit: contain;
+        }
+
+        .pdf-thumbnail canvas {
+            height: 200px;
+        }
+
+        .pdf-thumbnail {
+            box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+            text-align: center;
+        }
+        .qr-code-container svg{
+            margin-top: 4.4% !important;
+        }
+    </style>
+</head>
+
+<body class="overflow-x-hidden">
+<!-- Main Content Here -->
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" style="background-color: #821dbd; border: none">
+    <div class="d-flex flex-column w-100">
+        <div id="myDiv" style="background-color: white; border: none">
+    <div class="changebaseline container d-flex flex-wrap content">
+        <!-- Logo -->
+        <a href="https://apostille.mofa.gov.pk/" class="navbar-brand gap-2 flex-row align-items-center px-2 toggle">
+            <img class="" src="https://apostille.mofa.gov.pk/web/img/govLogo.png" alt="">
+            <div>
+                <p style="
+                    font-family: Plus Jakarta Sans, sans-serif;
+                    font-size: 16px;
+                    font-weight: 700;
+                    letter-spacing: 0em;
+                    color:  #1a561a;
+                    margin-bottom: 0px;">
+                    Ministry of Foreign Affairs
+                </p>
+                <p style="
+                    font-family: Plus Jakarta Sans, sans-serif;
+                    font-size: 14px;
+                    font-weight: 700;
+                    letter-spacing: 0em;
+                    color:  #1a561a;
+                    margin-bottom: 0px;">
+                    Government of Pakistan
+                </p>
+            </div>
+        </a>
+        <div class="gap-4 d-flex">
+            <div class="input-group">
+            </div>
+            <div>
+                <div class="gap-3 d-flex header-socials-icons">
+                    <a target="_blank" href="https://facebook.com/"> <img src="https://apostille.mofa.gov.pk/web/img/fb.png" alt=""></a>
+                    <a target="_blank" href="https://instagram.com/"> <img src="https://apostille.mofa.gov.pk/web/img/insta.png" alt=""></a>
+                    <a target="_blank" href="https://twitter.com/"> <img src="https://apostille.mofa.gov.pk/web/img/twitter.png" alt=""></a>
+                    <a target="_blank" href="https://linkedin.com/"> <img src="https://apostille.mofa.gov.pk/web/img/linkdin.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+        <div style="background-color: #821dbd; display: flex; flex-direction: column;" class="changebaseline second-navbar container navbar-center"> <!-- Navbar Toggler (for mobile) -->
+    <button style="margin-top: -12px; align-self: flex-end;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+    </button>
+    <div style="align-self: flex-start;" class="collapse navbar-collapse justify-content-center w-100" id="navbarNav">
+        <ul class="navbar-nav mr-auto justify-content-end d-flex">
+
+                        
+                
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://apostille.mofa.gov.pk/">HOME <span class="sr-only"></span></a>
+                    </li>
+                                            <li class="nav-item hide"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt="">
+                            </a></li>
+                                    
+            
+                
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://apostille.mofa.gov.pk/sops">Checklist <span class="sr-only"></span></a>
+                    </li>
+                                            <li class="nav-item hide"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt="">
+                            </a></li>
+                                    
+            
+                
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://apostille.mofa.gov.pk/list-of-public-documents">Documents <span class="sr-only"></span></a>
+                    </li>
+                                            <li class="nav-item hide"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt="">
+                            </a></li>
+                                    
+            
+                
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://apostille.mofa.gov.pk/list-of-countries">Apostille Country List <span class="sr-only"></span></a>
+                    </li>
+                                            <li class="nav-item hide"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt="">
+                            </a></li>
+                                    
+            
+                
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://apostille.mofa.gov.pk/fee-structure">Fee Details <span class="sr-only"></span></a>
+                    </li>
+                                            <li class="nav-item hide"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt="">
+                            </a></li>
+                                    
+            
+                
+                    <li class="nav-item active">
+                        <a class="nav-link" href="https://apostille.mofa.gov.pk/verify-attestation">VERIFY APOSTILLE <span class="sr-only"></span></a>
+                    </li>
+                                                        
+                    </ul>
+    </div>
+</div>
+    </div>
+</nav>
+
+
+    <div>
+        <ol class="breadcrumb" style="margin-top: 170px;padding-left: 30px">
+            <li class="breadcrumb-item">
+                <a style="font-size: 12px; color: rgba(177, 177, 177, 1) !important" href="https://apostille.mofa.gov.pk/">Home</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a style="font-size: 12px"> Apostille verification</a>
+            </li>
+        </ol>
+    </div>
+
+    <div id="home" class="my-5 mx-auto w-75">
+        <h1 style="
+          font-family: Plus Jakarta Sans, sans-serif;
+          font-size: 48px;
+          font-weight: 700;
+          line-height: 58px;
+          letter-spacing: 0em;
+        " class="text-center">
+            QR Code Verification Apostille Certificate
+        </h1>
+        <p style="
+          font-family: Plus Jakarta Sans, sans-serif;
+          font-family: Inter;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 24px;
+          letter-spacing: 0em;
+        " class="text-center">
+            This apostille certificate is issued by Ministry of Foreign Affairs Pakistan.
+        </p>
+                <p style="
+          font-family: Plus Jakarta Sans, sans-serif;
+          margin-top: 3rem !important;
+          margin: 1rem;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 24px;
+          letter-spacing: 0em;
+        " class="text-left">
+            This apostille refers to
+            <span style="font-weight: bold">Educational Document / Msc </span> and issued on N/A and is Approved by <span style="font-weight: bold">Ministry of Foreign Affairs Pakistan</span>
+        </p>
+    </div>
+
+    <div class="d-block justify-content-center flex-column">
+        <!-- <div class="d-flex justify-content-center"> -->
+        <div class="mt-3 image" style="background-image: url(https://apostille.mofa.gov.pk/assets/certificate/img/bg.jpg);  font-family: Poppins;
+                 background-position: center;
+                 background-repeat: no-repeat;
+                 background-size: cover;
+
+                 width: 523px;
+                 color: black;
+                 display: flex;
+                 color: black;
+                 align-content: center;
+                 justify-content: center;
+                 height: 702px;">
+            <div class="" style="width: 90%;height: fit-content; margin-top: 30px; ">
+                <div style="border: 1px solid black;">
+                    <div style="  font-size: 24px;
+            font-weight: bold;
+            padding: 5px 0px;
+            text-align: center;
+            font-family: LibreBaskerville;">APOSTILLE
+                    </div>
+                    <div style="text-align: center; font-size: 17px;  padding: 0px 10px;   border-top: 1px solid black;
+
+            ">(Convention de La Haye du 5 October 1961)
+                    </div>
+                    <div style="margin-bottom: 0px !important;border-top: 1px solid black;  display: flex;flex-direction: row; margin-bottom: 10px;">
+                        <div style="padding: 0px 8px ;padding-right: 52px; border-right: 1px solid black;text-align: left; font-size: 17px;  margin-right: 20px;">
+                            <span style="padding-right:10px; font-weight: 400;"> 1</span>
+                            Country <p style="font-weight: 600;padding: 0px 0px 0px 23px; margin: 0">Pakistan</p>
+                        </div>
+                        <div style="text-align: left; font-size: 17px;">
+                            This Public Document <p style="font-weight: 600;padding: 0px 0px 0px 4px; margin:0; ">Educational Document</p>
+                        </div>
+                    </div>
+                    <div style="  padding: 0px 10px;border-top: 1px solid black;font-size: 17px; "><span style="padding-right:10px; font-weight: 400;"> 2</span> has been signed by <br>
+                        <span style="font-weight: 600; padding-left: 28px;"> NA</span>
+                    </div>
+                    <div style="font-size: 17px; border-top: 1px solid black;padding: 0px 10px;">
+                        <span style="padding-right:10px; font-weight: 400;"> 3</span> acting in the capacity of<br>
+                        <span style="font-weight: 600; padding-left: 28px;">  Assistant Director Higher Education Commission Pakistan</span>
+                    </div>
+                    <div style="font-size: 17px;border-top: 1px solid black;
+            padding: 0px 10px;
+            ">
+                        <span style="padding-right:10px; font-weight: 400;"> 4</span> bears the seal stamp of <br>
+                        <span style="font-weight: 600; padding-left: 28px;">Assistant Director Higher Education Commission Pakistan  </span>
+                    </div>
+                    <div style=" padding:6px 0px 0px 0px;border-top: 1px solid black;
+                font-size: 20px; text-align: center; font-family: Fair;">
+                        Certified
+                    </div>
+                    <div style="font-size: 17px; border-top: 1px solid black;
+            padding: 0px 10px;
+            ">
+                        <span style="padding-right:10px; font-weight: 400;">5</span> at <span style="padding-left:38px;font-weight: 600">Islamabad Pakistan</span>
+                    </div>
+                                        <div class="" style="font-size: 17px;border-top: 1px solid black; padding: 0px 10px;">
+                        <span style="padding-right:10px; font-weight: 400;">6</span> the
+                        <span style="padding-left:26px;font-weight: 600">
+                            24 Mar 2026
+                        </span>
+                    </div>
+
+                    <div class=" " style="font-size: 17px;  border-top: 1px solid black;
+            padding: 0px 10px;
+            "><span style="padding-right:10px; font-weight: 400;">7</span> by
+                        <span style="padding-left:35px;font-weight: 600">Ministry of Foreign Affairs</span>
+                    </div>
+
+                    <div style="font-size: 17px; border-top: 1px solid black;
+            padding: 0px 10px;
+            "><span style="padding-right:10px; font-weight: 400;">8</span>
+                        No <span style="padding-left:32px;font-weight: 600">AWQ-JTNQ-POWS-BGTO</span>
+                    </div>
+
+                    <div style="display: flex;border-top: 1px solid;width: 100%;">
+                        <div style="flex-grow: 1;border-right: 1px solid;width: 30%;">
+
+                                                        <div style="padding: 2px 4px; font-size: 17px; border-bottom: 1px solid black;">
+                                Date: <span style="font-weight: 500;">
+                                    24 Mar 2026</span>
+                            </div>
+                            <div style="font-size: 17px; padding-top: 35px; padding-left: 3px;">Seal/Stamp</div>
+                        </div>
+                        
+                        <div style="text-align: center;border-right: 1px solid;">
+                          <div class="qr-code-container">
+
+<img src="../qr/person2.png"
+style="width:95px;height:95px; position:relative; top:05px;">
+
+<!-- Overlay image -->
+</div>
+</div>
+
+                        <div style="flex-grow: 1; display: flex; align-items: center; flex-direction: column;width: 30%;">
+                                                            
+                                 
+                                    <img src="../sign/sign2.png" alt="Signature" style="height:58px; margin-top:6px;">
+                                
+                                                                        <p style="font-size: 10px;">Ayesha Tariq</p>
+                                                                                    </div>
+                    </div>
+
+                </div>
+                <div style=" font-size: 13px; margin-top: 10px;
+            text-align: center;
+            padding: 3px 20px;">
+                    This apostille is not intended for use in Pakistan. It solely confirms the authenticity of the
+                    signature, seal, or stamp on the attached Pakistan public document. Please note that it does not
+                    verify
+                    the authenticity of the underlying document. <br>
+
+                    <span style="font-weight: 600;">To verify this apostille, visit <a style=" color: black;
+                    text-decoration: underline;
+                    font-weight: 600px;" href="https://apostille.mofa.gov.pk/www.apostille.mofa.gov.pk" target="_blank">www.apostille.mofa.gov.pk</a></span>
+                </div>
+            </div>
+        </div>
+        <!-- </div> -->
+        <div class="mt-3 image" style=" font-family: Poppins;
+                 width: 523px;
+                 color: black;
+                 display: flex;
+                 align-content: center;
+                 justify-content: center;
+                 height: 702px;">
+                        <a style="margin-right: 38%;" href="https://apostille.mofa.gov.pk/decrypt/ZXlKcGRpSTZJbTVsTTFWSU1EaERZV0pXYVVZdlNVOW9PRk5zZGxFOVBTSXNJblpoYkhWbElqb2lkbVpuYm0xM1NXWXpXV3c0T1dKYU1FRlRWMnRTYUZKb1oyeFlUbGc1ZGtGVWFEbE5aa2hHUXpBcmRtUjVOalJTY2tGT1VIUktPV2xhVEdSS01UUnNaa0ZKY2tJNGRFcDRiRkZ5Y1hveVMyaENlVFpJZWs5bGRFNXFNa0p3VmxKQ2FDczFkMHBzUzFKb2FWTmxWREIxT0RSdVlVdHlXQzk2UjAxTVFYRnJjalpNTkhocFZFOXRWVzVITUdoVVJuZEJMMnBaVkV0YVdrUXdVR2hQWVRsTU5YSXdXbVE1YkVsMFdYRTVZVEZoV1M5d2VHZExlbmhuWlc1NkswMHliemR2SWl3aWJXRmpJam9pTkdaaFlUazJOemM0TURRMk1UWmpZakEyWldFMFpEQXlNRFZpT1RReE1ESTRNV1EyTjJFNE5qTTNNR0UwTjJJeE9HSTBZVEl6TW1ReE1XRTBZVEl5WkNJc0luUmhaeUk2SWlKOQ==" target="_blank">
+                <iframe src="../pdf/person2.pdf"
+frameborder="0"
+style="width:170%; height:107%;">
+</iframe>
+            </a>
+
+     </div>
+    </div>
+    <p style="color: black; text-align: center; margin-top: 6rem">
+        If you need further help email verifyapostille@mofa.gov.pk with the
+        Apostille number and date
+    </p>
+<!-- Start Footer Area -->
+<div style="background-color: rgb(59, 62, 62); visibility: visible; animation-delay: 0.1s;" class="footer mt-5 wow fadeIn animated" data-wow-delay="0.1s">
+    <div class="container py-3">
+        <div class="row gap-2 justify-content-between mb-1">
+            <div class="d-flex justify-content-center col align-content-center align-items-center gap-lg-5 rtoc">
+                <a href="https://apostille.mofa.gov.pk/" class="navbar-brand gap-2 d-flex flex-row align-items-center px-2">
+                    <img class="" src="https://apostille.mofa.gov.pk/web/img/govLogo.png" alt="">
+                    <div>
+                        <p class="fltext">Ministry of Foreign Affairs</p>
+                        <p class="fltext">Government of Pakistan</p>
+                    </div>
+                </a>
+                <ul class="navbar-nav justify-content-center d-flex flex-row footerFixer" style="
+               font-family: Plus Jakarta Sans, sans-serif;
+               font-size: 20px;
+               font-weight: 500;
+               line-height: 25px;
+               letter-spacing: 0em;
+               text-align: left;">
+                                            <li class="nav-item">
+                            <a style="
+                     font-family: Plus Jakarta Sans, sans-serif;
+                     font-size: 18px;
+                     font-weight: 500;
+                     line-height: 28px;
+                     letter-spacing: 0em;
+                     color: white;" class="nav-link" href="https://apostille.mofa.gov.pk/authorized-courier-companies">
+                                Authorized Courier Companies
+                            </a>
+                        </li>
+                                                    <li class="nav-item"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt=""> </a>
+                            </li>
+                                                                    <li class="nav-item">
+                            <a style="
+                     font-family: Plus Jakarta Sans, sans-serif;
+                     font-size: 18px;
+                     font-weight: 500;
+                     line-height: 28px;
+                     letter-spacing: 0em;
+                     color: white;" class="nav-link" href="https://apostille.mofa.gov.pk/verify-attestation#faq">
+                                FAQ
+                            </a>
+                        </li>
+                                                    <li class="nav-item"><a class="nav-link"> <img src="./Apostille verification_files/Line.png" alt=""> </a>
+                            </li>
+                                                                    <li class="nav-item">
+                            <a style="
+                     font-family: Plus Jakarta Sans, sans-serif;
+                     font-size: 18px;
+                     font-weight: 500;
+                     line-height: 28px;
+                     letter-spacing: 0em;
+                     color: white;" class="nav-link" href="https://apostille.mofa.gov.pk/verify-attestation#contact-us">
+                                Contact Us
+                            </a>
+                        </li>
+                                                                                    </ul>
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #821dbd">
+        <div class="copyright w-100">
+            <div class="row">
+                <div style="color: white; text-align: center; width: 100%" class="col-md-12 text-center text-md-center mb-3 mb-md-0 poppins-regular"><a href="https://apostille.mofa.gov.pk/verify-attestation#">Copyright © 2024 Ministry of Foreign Affairs, Government of Pakistan. All Rights Reserved.</a></div>
+            </div>
+        </div>
+    </div> <!-- Footer End -->
+    <!-- Back to Top -->
+    <!-- <a
+       href="#"
+       style="background-color: transparent"
+       class="btn btn-lg btn-primary btn-lg-circle back-to-top"
+       ><i style="color: black" class="bi bi-arrow-up"></i
+       ></a> -->
+</div>
+<!-- End Footer Area -->
+<!-- ====== ADD THIS PART ====== -->
+
+<!-- Floating Button -->
+<button onclick="openModal()" id="complaintBtn">
+    <i class="fas fa-comment-dots mr-2"></i> Submit Feedback
+</button>
+
+<!-- Include the Modal -->
+
+
+
+    <!-- We'll move styles and scripts to the bottom -->
+    <!-- CSS Styles -->
+    <style>
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            padding: 20px;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 20px;
+            width: 100%;
+            max-width: 500px;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .tab-header {
+            display: flex;
+            background: linear-gradient(135deg, #003D1D 0%, #006B32 100%);
+            border-radius: 20px 20px 0 0;
+            padding: 0;
+        }
+
+        .tab-button {
+            flex: 1;
+            padding: 15px;
+            background: transparent;
+            border: none;
+            color: rgba(255, 255, 255, 0.7);
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .tab-button.active {
+            color: white;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .tab-content {
+            display: none;
+            padding: 25px;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        .form-label {
+            display: block;
+            color: #4a5568;
+            font-weight: 600;
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+        }
+
+        .form-textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+
+        .star-rating {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin: 15px 0;
+        }
+
+        .star {
+            font-size: 30px;
+            color: #e2e8f0;
+            cursor: pointer;
+        }
+
+        .star.active {
+            color: #ffc107;
+        }
+
+        .file-upload {
+            border: 2px dashed #cbd5e0;
+            border-radius: 8px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .btn-submit {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px;
+            border-radius: 8px;
+            width: 100%;
+            cursor: pointer;
+            margin-top: 15px;
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: white;
+            border: none;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            cursor: pointer;
+            z-index: 100;
+        }
+
+        .file-input {
+            display: none;
+        }
+
+        /* Floating Button Styles */
+        #complaintBtn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: linear-gradient(135deg, #003D1D 0%, #006B32 100%);
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes  float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+        }
+
+        .required-star {
+            color: red;
+        }
+
+        .file-preview {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: #f0f9ff;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        .file-remove {
+            cursor: pointer;
+            color: #ef4444;
+            font-weight: bold;
+        }
+
+        .success-message {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .success-icon {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 60px;
+            color: #22c55e;
+            margin-bottom: 15px;
+        }
+
+    </style>
+
+
+<!-- The Modal -->
+<div id="complaintModal" class="modal-overlay" style="display: none;">
+    <button onclick="closeModal()" class="close-btn">
+        <i class="fas fa-times"></i>
+    </button>
+
+    <div class="modal-content">
+        <div class="tab-header">
+            <button class="tab-button active" data-tab="complaint">
+                <i class="tab-icon fas fa-exclamation-circle"></i>
+                Complaint
+            </button>
+            <button class="tab-button" data-tab="feedback">
+                <i class="tab-icon fas fa-star"></i>
+                Feedback
+            </button>
+            <button class="tab-button" data-tab="suggestion">
+                <i class="tab-icon fas fa-lightbulb"></i>
+                Suggestion
+            </button>
+        </div>
+
+        <!-- Complaint Form -->
+        <div id="complaintTab" class="tab-content active">
+            <h2 class="text-2xl font-bold mb-6 text-gray-800">Submit a Complaint</h2>
+            <form id="complaintForm" action="https://apostille.mofa.gov.pk/complaints" method="POST" enctype="multipart/form-data">
+                <input type="hidden" name="_token" value="qHcyoK7qxIHYuLcfUBwdpdkvvtftZzMXJwpgym7C">                <div class="form-group">
+                    <label class="form-label">
+                        Full Name <span class="required-star">*</span>
+                    </label>
+                    <input type="text" name="name" class="form-input" required="" maxlength="20" pattern="^[A-Za-z\s]{1,20}$" title="Only alphabets allowed. Maximum 20 characters." placeholder="Enter your name">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">
+                        Email Address <span class="required-star">*</span>
+                    </label>
+                    <input type="email" name="email" class="form-input" required="" maxlength="35" pattern="^[^\s@]{1,35}@[^\s@]+\.[a-zA-Z]{2,}$" title="Valid email required (max 35 characters)" placeholder="you@example.com">
+
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Phone Number</label>
+                    <input type="tel" name="phone" class="form-input" placeholder="+923001234567" pattern="^(\\+92|0)3[0-9]{9}$" title="Only Pakistan mobile numbers allowed (+923XXXXXXXXX or 03XXXXXXXXX)">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">
+                        Complain Type  <span class="required-star">*</span>
+                    </label>
+                    <select name="complaint_type_id" class="form-input" required="">
+                        <option value="">Select Complain Type</option>
+                                                    <option value="1">Document Verification</option>
+                                                    <option value="2">Authentication Delay</option>
+                                                    <option value="3">Apostille Stamp</option>
+                                                    <option value="4">Notarization Issue</option>
+                                                    <option value="5">Document Translation</option>
+                                                    <option value="6">Processing Delay</option>
+                                                    <option value="7">Delivery Delay</option>
+                                                    <option value="8">Expedite Service</option>
+                                                    <option value="9">Incorrect Details</option>
+                                                    <option value="10">Document Quality</option>
+                                                    <option value="11">Missing Stamp/Signature</option>
+                                                    <option value="12">Wrong Country Specification</option>
+                                                    <option value="13">Poor Communication</option>
+                                                    <option value="14">No Status Updates</option>
+                                                    <option value="15">Unresponsive Staff</option>
+                                                    <option value="16">Wrong Information Provided</option>
+                                                    <option value="17">Payment Processing</option>
+                                                    <option value="18">Refund Request</option>
+                                                    <option value="19">Hidden Charges</option>
+                                                    <option value="20">Invoice Issue</option>
+                                                    <option value="21">Birth Certificate Issue</option>
+                                                    <option value="22">Marriage Certificate Issue</option>
+                                                    <option value="23">Degree/Diploma Apostille</option>
+                                                    <option value="24">Power of Attorney</option>
+                                                    <option value="25">Commercial Document</option>
+                                                    <option value="26">Court Document</option>
+                                                    <option value="27">Courier Problem</option>
+                                                    <option value="28">Lost Document</option>
+                                                    <option value="29">Wrong Address Delivery</option>
+                                                    <option value="30">Tracking Issue</option>
+                                                    <option value="31">Document Rejected by Embassy</option>
+                                                    <option value="32">Incomplete Documentation</option>
+                                                    <option value="33">Expiry Date Issue</option>
+                                                    <option value="34">Embassy Legalization</option>
+                                                    <option value="35">Service Quality</option>
+                                                    <option value="36">Pricing Complaint</option>
+                                                    <option value="37">Staff Behavior</option>
+                                                    <option value="38">Website/Portal Issue</option>
+                                                    <option value="39">Other Apostille Issue</option>
+                                            </select>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">
+                        Complaint Details  <span class="required-star">*</span>
+                    </label>
+                    <textarea name="text" class="form-input form-textarea" required="" maxlength="250" data-max-chars="250" placeholder="Please describe your complaint (max 250 characters)..."></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Attachment (Optional)</label>
+                    <div class="file-upload" onclick="document.getElementById(&#39;complaintFile&#39;).click()">
+                        <i class="fas fa-cloud-upload-alt text-3xl text-gray-400 mb-3"></i>
+                        <p class="text-gray-600">Click to upload file</p>
+                        <input type="file" id="complaintFile" name="attachment" class="file-input">
+                    </div>
+                    <div id="complaintFilePreview" class="mt-2"></div>
+                </div>
+
+                <button type="submit" class="btn-submit">
+                    <i class="fas fa-paper-plane"></i> Submit Complaint
+                </button>
+            </form>
+        </div>
+
+        <!-- Feedback Form -->
+        <div id="feedbackTab" class="tab-content">
+            <h2 class="text-2xl font-bold mb-6 text-gray-800">Share Your Feedback</h2>
+            <form id="feedbackForm">
+                <input type="hidden" name="_token" value="qHcyoK7qxIHYuLcfUBwdpdkvvtftZzMXJwpgym7C">                <div class="form-group">
+                    <label class="form-label text-center mb-4">How would you rate your experience?</label>
+                    <div class="star-rating">
+                        <div class="star" data-rating="1">★</div>
+                        <div class="star" data-rating="2">★</div>
+                        <div class="star" data-rating="3">★</div>
+                        <div class="star" data-rating="4">★</div>
+                        <div class="star" data-rating="5">★</div>
+                    </div>
+                    <p id="ratingText" class="rating-text">Tap to rate</p>
+                    <input type="hidden" name="stars" id="starsInput" required="">
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Your Feedback (Optional)</label>
+                    <textarea name="text" class="form-input form-textarea" maxlength="250" data-max-chars="250" placeholder="Your feedback (max 250 characters)..."></textarea>
+                </div>
+
+                <button type="submit" class="btn-submit">
+                    <i class="fas fa-paper-plane"></i> Submit Feedback
+                </button>
+            </form>
+        </div>
+
+        <!-- Suggestion Form -->
+        <div id="suggestionTab" class="tab-content">
+            <h2 class="text-2xl font-bold mb-6 text-gray-800">Make a Suggestion</h2>
+            <form id="suggestionForm">
+                <input type="hidden" name="_token" value="qHcyoK7qxIHYuLcfUBwdpdkvvtftZzMXJwpgym7C">                <div class="form-group">
+                    <label class="form-label">Your Suggestion *</label>
+                    <textarea name="text" class="form-input form-textarea" required="" maxlength="250" data-max-chars="250" placeholder="Your suggestion (max 250 characters)..."></textarea>
+                </div>
+
+                <button type="submit" class="btn-submit">
+                    <i class="fas fa-paper-plane"></i> Submit Suggestion
+                </button>
+            </form>
+        </div>
+
+        <!-- Success Message -->
+        <div id="successTab" class="tab-content">
+            <div class="success-message">
+                <div class="success-icon">
+                    <i class="fas fa-check-circle"></i>
+                </div>
+                <h2 class="text-2xl font-bold mb-4 text-gray-800" id="successTitle">Submitted Successfully!</h2>
+                <p class="text-gray-600 mb-6" id="successMessageText">Thank you for your submission.</p>
+                <button onclick="resetForms()" class="btn-submit">
+                    <i class="fas fa-plus"></i> Submit Another
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- JavaScript -->
+<script>
+    let currentRating = 0;
+    let currentTab = 'complaint';
+
+    // Open Modal
+    function openModal() {
+        document.getElementById('complaintModal').style.display = 'flex';
+        document.body.style.overflow = 'hidden';
+    }
+
+    // Close Modal
+    function closeModal() {
+        document.getElementById('complaintModal').style.display = 'none';
+        document.body.style.overflow = 'auto';
+    }
+
+    // Switch Tabs
+    document.querySelectorAll('.tab-button').forEach(button => {
+        button.addEventListener('click', function() {
+            // Update active tab button
+            document.querySelectorAll('.tab-button').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            this.classList.add('active');
+
+            // Show corresponding tab
+            currentTab = this.dataset.tab;
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            document.getElementById(currentTab + 'Tab').classList.add('active');
+        });
+    });
+
+    // Star Rating
+    document.querySelectorAll('.star').forEach(star => {
+        star.addEventListener('click', function() {
+            currentRating = parseInt(this.dataset.rating);
+            updateStars(currentRating);
+            document.getElementById('starsInput').value = currentRating;
+        });
+    });
+
+    function updateStars(rating) {
+        document.querySelectorAll('.star').forEach((star, index) => {
+            if (index < rating) {
+                star.classList.add('active');
+            } else {
+                star.classList.remove('active');
+            }
+        });
+
+        const texts = ["Tap to rate", "Poor", "Fair", "Good", "Very Good", "Excellent"];
+        document.getElementById('ratingText').textContent = texts[rating];
+    }
+
+    document.getElementById('complaintFile').addEventListener('change', function () {
+        const preview = document.getElementById('complaintFilePreview');
+
+        if (this.files.length > 0) {
+            const file = this.files[0];
+
+            preview.innerHTML = `
+            <div class="file-preview">
+                <span>
+                    <i class="fas fa-file"></i>
+                    ${file.name} (${(file.size / 1024).toFixed(2)} KB)
+                </span>
+                <span class="file-remove" onclick="removeAttachment()">✖</span>
+            </div>
+        `;
+        }
+    });
+
+    function removeAttachment() {
+        const input = document.getElementById('complaintFile');
+        input.value = '';
+        document.getElementById('complaintFilePreview').innerHTML = '';
+    }
+
+
+    // Form Submission - UPDATED
+    document.getElementById('complaintForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        submitForm(this, '/complaints', 'Complaint');
+    });
+
+    document.getElementById('feedbackForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        if (currentRating === 0) {
+            alert('Please select a rating');
+            return;
+        }
+        submitForm(this, '/feedback', 'Feedback');
+    });
+
+    document.getElementById('suggestionForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        submitForm(this, '/suggestions', 'Suggestion');
+    });
+
+    function submitForm(form, endpoint, type) {
+        console.log('Submitting form to:', endpoint);
+        console.log('Form type:', type);
+
+        const submitBtn = form.querySelector('button[type="submit"]');
+        const originalText = submitBtn.innerHTML;
+
+        submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Submitting...';
+        submitBtn.disabled = true;
+
+        const formData = new FormData(form);
+
+        // Debug: Log all form data
+        console.log('Form data entries:');
+        for (let [key, value] of formData.entries()) {
+            console.log(key + ':', value);
+        }
+
+        // Get CSRF token - try multiple ways
+        let csrfToken = '';
+
+        // Try from meta tag first
+        const metaToken = document.querySelector('meta[name="csrf-token"]');
+        if (metaToken) {
+            csrfToken = metaToken.getAttribute('content');
+        }
+
+        // Try from input field
+        if (!csrfToken) {
+            const inputToken = document.querySelector('input[name="_token"]');
+            if (inputToken) {
+                csrfToken = inputToken.value;
+            }
+        }
+
+        // Try from Laravel JS object
+        if (!csrfToken && window.Laravel && window.Laravel.csrfToken) {
+            csrfToken = window.Laravel.csrfToken;
+        }
+
+        console.log('CSRF Token found:', csrfToken ? 'Yes' : 'No');
+
+        // For feedback form, add rating
+        if (type === 'Feedback') {
+            formData.append('stars', currentRating);
+            console.log('Added stars rating:', currentRating);
+        }
+
+        // Prepare headers
+        const headers = {
+            'Accept': 'application/json',
+            'X-Requested-With': 'XMLHttpRequest' // Important for Laravel to identify AJAX request
+        };
+
+        // Add CSRF token if found
+        if (csrfToken) {
+            headers['X-CSRF-TOKEN'] = csrfToken;
+        }
+
+        fetch(endpoint, {
+            method: 'POST',
+            body: formData,
+            headers: headers,
+            credentials: 'same-origin'
+        })
+            .then(response => {
+                console.log('Response status:', response.status);
+                console.log('Response OK:', response.ok);
+
+                const contentType = response.headers.get('content-type');
+                if (contentType && contentType.includes('application/json')) {
+                    return response.json();
+                } else {
+                    return response.text().then(text => {
+                        console.log('Non-JSON response received');
+                        throw new Error('Server returned non-JSON response. Status: ' + response.status);
+                    });
+                }
+            })
+            .then(data => {
+                console.log('Response data:', data);
+
+                if (data.success) {
+                    // Show success message
+                    document.getElementById('successTitle').textContent = `${type} Submitted!`;
+                    document.getElementById('successMessageText').textContent = data.message || 'Thank you for your submission.';
+
+                    document.querySelectorAll('.tab-content').forEach(content => {
+                        content.classList.remove('active');
+                    });
+                    document.getElementById('successTab').classList.add('active');
+
+                    // Hide tab header on success
+                    document.querySelector('.tab-header').style.display = 'none';
+
+                    // Reset form after success
+                    form.reset();
+                    if (type === 'Feedback') {
+                        currentRating = 0;
+                        updateStars(0);
+                        document.getElementById('starsInput').value = '';
+                    }
+                    resetSubmitButtons();
+
+
+                } else {
+                    // Handle validation errors
+                    let errorMessage = data.message || 'Please try again';
+
+                    // If there are validation errors, show them
+                    if (data.errors) {
+                        errorMessage = Object.values(data.errors).flat().join('\n');
+                    }
+
+                    alert('Error: ' + errorMessage);
+                    submitBtn.innerHTML = originalText;
+                    submitBtn.disabled = false;
+                }
+            })
+            .catch(error => {
+                console.error('Fetch error:', error);
+
+                let errorMessage = 'Network error. Please try again.';
+                if (error.message.includes('non-JSON')) {
+                    errorMessage = 'Server error. Please try again or contact support.';
+                }
+
+                alert('Error: ' + errorMessage + '\n\nCheck browser console for details.');
+                submitBtn.innerHTML = originalText;
+                submitBtn.disabled = false;
+            });
+    }
+
+    function resetForms() {
+        // Reset all forms
+        document.getElementById('complaintForm').reset();
+        document.getElementById('feedbackForm').reset();
+        document.getElementById('suggestionForm').reset();
+
+        // Reset file preview
+        document.getElementById('complaintFilePreview').innerHTML = '';
+
+        // Reset rating
+        currentRating = 0;
+        updateStars(0);
+        document.getElementById('starsInput').value = '';
+
+        // Show tab header again
+        document.querySelector('.tab-header').style.display = 'flex';
+
+        // Go back to current tab
+        document.querySelectorAll('.tab-content').forEach(content => {
+            content.classList.remove('active');
+        });
+        document.getElementById(currentTab + 'Tab').classList.add('active');
+        resetSubmitButtons();
+
+    }
+
+    // Close modal when clicking outside
+    document.getElementById('complaintModal').addEventListener('click', function(e) {
+        if (e.target === this) {
+            closeModal();
+        }
+    });
+
+    // Close with Escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            closeModal();
+        }
+    });
+
+
+    // Debug function to test form submission
+    window.testForm = function() {
+        console.log('=== FORM DEBUG INFO ===');
+        console.log('Current tab:', currentTab);
+        console.log('Current rating:', currentRating);
+
+        const form = document.getElementById('complaintForm');
+        if (form) {
+            console.log('Form action:', form.action);
+            console.log('Form method:', form.method);
+            console.log('Form has CSRF:', form.querySelector('input[name="_token"]') ? 'Yes' : 'No');
+
+            // Test simple submission
+            const testData = {
+                name: 'Test User',
+                email: 'test@example.com',
+                text: 'This is a test complaint',
+                complain_type_id: 1,
+                _token: document.querySelector('input[name="_token"]')?.value || 'no-token'
+            };
+
+            console.log('Test data:', testData);
+        }
+    };
+    document.getElementById('complaintFile').addEventListener('change', function () {
+        const preview = document.getElementById('complaintFilePreview');
+        const file = this.files[0];
+
+        if (!file) return;
+
+        // 2MB limit
+        if (file.size > 2 * 1024 * 1024) {
+            alert('File size must not exceed 2 MB');
+            this.value = '';
+            preview.innerHTML = '';
+            return;
+        }
+
+        preview.innerHTML = `
+        <div class="file-preview">
+            <span>
+                <i class="fas fa-file"></i>
+                ${file.name} (${(file.size / 1024).toFixed(2)} KB)
+            </span>
+            <span class="file-remove" onclick="removeAttachment()">✖</span>
+        </div>
+    `;
+    });
+    document.querySelectorAll('textarea[data-max-chars]').forEach(textarea => {
+        textarea.addEventListener('input', function () {
+            const maxChars = parseInt(this.dataset.maxChars);
+
+            if (this.value.length > maxChars) {
+                this.value = this.value.substring(0, maxChars);
+                alert(`Maximum ${maxChars} characters allowed`);
+            }
+        });
+    });
+
+    function resetSubmitButtons() {
+        document.querySelectorAll('form').forEach(form => {
+            const btn = form.querySelector('button[type="submit"]');
+            if (btn) {
+                btn.disabled = false;
+
+                // Restore default text based on form
+                if (form.id === 'complaintForm') {
+                    btn.innerHTML = '<i class="fas fa-paper-plane"></i> Submit Complaint';
+                } else if (form.id === 'feedbackForm') {
+                    btn.innerHTML = '<i class="fas fa-paper-plane"></i> Submit Feedback';
+                } else if (form.id === 'suggestionForm') {
+                    btn.innerHTML = '<i class="fas fa-paper-plane"></i> Submit Suggestion';
+                }
+            }
+        });
+    }
+
+</script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const hash = window.location.hash.replace('#', '');
+
+        if (hash === 'complaints') {
+            openModal();
+        }
+    });
+</script>
+
+
+
+
+<script src="./Apostille verification_files/jquery-3.4.1.min.js.download"></script>
+<script src="./Apostille verification_files/bootstrap.bundle.min.js.download"></script>
+<script src="./Apostille verification_files/wow.min.js.download"></script>
+<script src="./Apostille verification_files/easing.min.js.download"></script>
+<script src="./Apostille verification_files/waypoints.min.js.download"></script>
+<script src="./Apostille verification_files/owl.carousel.min.js.download"></script>
+<script src="./Apostille verification_files/main.js.download"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var expandableContent = document.getElementById("expandableContent");
+        expandableContent.style.display = "none"; // Hide the content initially
+    });
+
+    function expandContent() {
+        var expandableContent = document.getElementById("expandableContent");
+        var buttonText = document.querySelector(".gradient-button");
+
+        if (
+            expandableContent.style.display === "none" ||
+            expandableContent.style.display === ""
+        ) {
+            expandableContent.style.display = "block";
+            buttonText.innerText = "Read Less";
+        } else {
+            expandableContent.style.display = "none";
+            buttonText.innerText = "Read More";
+        }
+    }
+</script>
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function () {
+        "use strict";
+        window.addEventListener(
+            "load",
+            function () {
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.getElementsByClassName("needs-validation");
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(
+                    forms,
+                    function (form) {
+                        form.addEventListener(
+                            "submit",
+                            function (event) {
+                                if (form.checkValidity() === false) {
+                                    event.preventDefault();
+                                    event.stopPropagation();
+                                }
+                                form.classList.add("was-validated");
+                            },
+                            false
+                        );
+                    }
+                );
+            },
+            false
+        );
+    })();
+    console.log('~z~u~baig~')
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    const items = document.querySelectorAll(".accordion button");
+
+    function toggleAccordion() {
+        const itemToggle = this.getAttribute("aria-expanded");
+
+        for (i = 0; i < items.length; i++) {
+            items[i].setAttribute("aria-expanded", "false");
+        }
+
+        if (itemToggle == "false") {
+            this.setAttribute("aria-expanded", "true");
+        }
+    }
+
+    items.forEach((item) =>
+        item.addEventListener("click", toggleAccordion)
+    );
+</script>
+<script>
+    let dropdowns = document.querySelectorAll(".dropdown-toggle");
+    dropdowns.forEach((dd) => {
+        dd.addEventListener("click", function (e) {
+            var el = this.nextElementSibling;
+            el.style.display = el.style.display === "block" ? "none" : "block";
+        });
+    });
+    $(document).ready(function () {
+        if ($(window).width() < 992) {
+            // Adjust this breakpoint according to your needs
+            $(".dropdown").removeClass("show");
+        }
+    });
+
+</script>
+
+    <script src="./Apostille verification_files/pdf.js.download"></script>
+    <script>
+        pdfjsLib.GlobalWorkerOptions.workerSrc = "https://apostille.mofa.gov.pk/web/js/pdf.worker.js";
+
+        // Fetch PDF file and render its first page as an image
+        $(document).ready(function () {
+            $('.pdf-canvas').each(function () {
+                var canvas = this;
+                var url = $(this).data('url');
+
+                pdfjsLib.getDocument(url).promise.then(function (pdf) {
+                    return pdf.getPage(1);
+                }).then(function (page) {
+                    var viewport = page.getViewport({scale: 1});
+                    canvas.height = viewport.height;
+                    canvas.width = viewport.width;
+
+                    var renderContext = {
+                        canvasContext: canvas.getContext('2d'),
+                        viewport: viewport
+                    };
+                    return page.render(renderContext).promise;
+                }).catch(function (error) {
+                    console.error('Error rendering PDF:', error);
+                });
+            });
+        });
+    </script>
+
+
+</body></html>
